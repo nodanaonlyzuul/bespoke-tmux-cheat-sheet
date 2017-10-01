@@ -1,6 +1,6 @@
 # Bespoke TMUX Cheatsheet
 
-"**The (default) bind key is Control b**" - my great, grandfather jotted in his
+"**The (default) bind key is Control b**" - my great grandfather jotted in his
 leather bound journal as the boat entered the Hudson River.
 
 At Ellis Island he was told to bring only one cheat sheet.
