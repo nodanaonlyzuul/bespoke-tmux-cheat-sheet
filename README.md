@@ -3,8 +3,8 @@
 "**The bind key is Control b**" - my great, grandfather jotted in his
 leather bound journal as the boat entered the Hudson River.
 
-At Elis Island he was told to bring only one cheat sheet.
-This is that cheatsheet...
+At Ellis Island he was told to bring only one cheat sheet.
+This is that cheatsheet...unchanged by time, unrelenting in quality.
 
 ## Windows
 
@@ -41,3 +41,22 @@ This is that cheatsheet...
 see sessions: `tmux ls`  
 attach to session: `tmux attach -t [IDENTIFIER]`  
 kill session: `tmux kill-session -t [IDENTIFIER]`
+
+## Commands
+
+Commands can be used to do some of the same things
+keyboard shortcuts can. BIND + :
+
+
+### `new-window`
+
+* `new-window -c ~/path/to/start/in`
+
+### Monitoring Output
+
+`set-option -g monitor-activity on`
+
+
+## Customizing Tmux
+
+Add a file like [.tmux.conf](/.tmux.conf)
